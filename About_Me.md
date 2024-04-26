@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Nicolas Abboud.
-- 👀 I’m interested in Artificial Intelligence, Data Science, Philosophy, and Sociology.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Philosophy, and Sociology.
 - 👨‍💻 I’m currently learning Programming.
 
 <!---
